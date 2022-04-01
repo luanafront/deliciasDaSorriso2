@@ -3,18 +3,30 @@ body {
     padding: 0;
     width: 0;
 }
-.cabecalho {}
-    .cabecalho__titulo {}
+.cabecalho {
+    background-color: #E97333;
+}
+    .cabecalho__titulo {
+        text-align: center;
+        color: #000;
+    }
 .principal {}
     .principal__topo {}
         .principal__topo--texto {}
     .principal__capa {}
-        .principal__capa--imagem {}
-        .principal__capa--texto {}
+        .principal__capa--imagem {
+            height: 100%;
+            width: 60px;
+        }
+        .principal__capa--texto {
+        }
     .principal__cardapio {}
        .principal__cardapio--opcoes {}
             .cardapio__opcao {}
-                .cardapio__opcao--imagem {}
+                .cardapio__opcao--imagem {
+                    height: 100%;
+                    width: 100px;
+                }
                 .cardapio__opcao--titulo {}
                 .cardapio__opcao--valor {}
     .principal__quemsomos {}
