@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 0;
+}
+.cabecalho {}
+    .cabecalho__titulo {}
+.principal {}
+    .principal__topo {}
+        .principal__topo--texto {}
+    .principal__capa {}
+        .principal__capa--imagem {}
+        .principal__capa--texto {}
+    .principal__cardapio {}
+       .principal__cardapio--opcoes {}
+            .cardapio__opcao {}
+                .cardapio__opcao--imagem {}
+                .cardapio__opcao--titulo {}
+                .cardapio__opcao--valor {}
+    .principal__quemsomos {}
+        .quemsomos__imagem {}
+            .quemsomos__perfil {}
+            .quemsomos__texto {}
+        .quemsomos__texto {}
+            .quemsomos__nome {}
+            .quemsomos__texto {}
+.cabecalho {}
+    .cabecalho__contato {}
+        .cabecalho__contato--instagram {}
+        .cabecalho__contato--whatsapp {}
