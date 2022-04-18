@@ -11,6 +11,8 @@ body {
         margin      : 0      ;
         padding     : 10px   ;
     }
+    .principal__logo{}
+        .principal__logo--imagem {}
 .principal {}
     .principal__topo {
         background-color : #D35858    ;
